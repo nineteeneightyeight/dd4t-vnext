@@ -1,4 +1,4 @@
-FROM jtbennett/aspnet
+FROM jtbennett/aspnet-docker
 
 RUN sudo apt-get update && apt-get install -y git 
 
